@@ -26,4 +26,4 @@ Key visualizations include:
 - Correlation analysis between pricing factors
 - Forecasting of future pricing based on trends
 
-![Tableau Dashboard]<img width="1410" height="689" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/93e74888-9edf-4491-a133-63587a90d36c" />
+<img width="1410" height="689" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/93e74888-9edf-4491-a133-63587a90d36c" />
